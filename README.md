@@ -26,3 +26,13 @@ Expose 80
 - docker build . -t mynginx
 - docker run -p 8000:80 -d mynginx
 ```
+
+## To get inside the container
+```
+- docker exec -it "CONTAINER-ID" bash
+```
+
+## To see the docker processes
+```
+- docker ps
+```
