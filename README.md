@@ -45,4 +45,7 @@ Expose 80
 ```
 Add group :
 - sudo usermod -aG docker $USER
+
+Can find it here :
+- cat /etc/group
 ```
