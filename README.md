@@ -40,3 +40,9 @@ Expose 80
 ```
 - docker ps
 ```
+
+## If get error that need sudo permission
+```
+Add group :
+- sudo usermod -aG docker "name-of-the-pc"
+```
