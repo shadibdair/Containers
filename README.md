@@ -44,5 +44,5 @@ Expose 80
 ## If get error that need sudo permission
 ```
 Add group :
-- sudo usermod -aG docker "name-of-the-pc"
+- sudo usermod -aG docker $USER
 ```
