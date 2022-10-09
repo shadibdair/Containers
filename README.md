@@ -27,7 +27,7 @@ Expose 80
 - docker run -p 8000:80 -d mynginx
 ```
 
-# Result 
+## Result 
 ![Screenshot](screenshots/result.png)
 
 
