@@ -15,4 +15,7 @@ Host:container server
 8000:80
 localhost:8000
 inside docker:80
+
+Inside DockerFile:
+Expose 80
 ```
