@@ -19,3 +19,10 @@ inside docker:80
 Inside DockerFile:
 Expose 80
 ```
+------------------------------------------------------
+
+## To start with dockerfile
+```
+- docker build . -t mynginx
+- docker run -p 8000:80 -d mynginx
+```
