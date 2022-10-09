@@ -27,6 +27,10 @@ Expose 80
 - docker run -p 8000:80 -d mynginx
 ```
 
+# Result 
+![Screenshot](screenshots/result.png)
+
+
 ## To get inside the container
 ```
 - docker exec -it "CONTAINER-ID" bash
