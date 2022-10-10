@@ -1,6 +1,7 @@
-# Some Screenshots
-
 ## Results
+
+### The script python create new user and new group on aws using boto3
+------------------------------------------------------------------------
 
 <img width="1364" alt="Screen Shot 2022-10-10 at 16 52 11" src="https://user-images.githubusercontent.com/43513994/194892798-176be1c9-5f1a-4571-9ac9-0d0f250c8a95.png">
 
