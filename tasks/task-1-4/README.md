@@ -29,3 +29,10 @@ docker run -d task-1-4
 # To get inside the container :
 docker exec -it "image-ID" bash
 ```
+
+### Bonus :
+```
+alias runaws=`docker run -d task-1-4`
+```
+
+
