@@ -8,6 +8,12 @@
 
 # Answer
 ### Is the command the container executes by default when you launch the built image.
+### The command is : docker image inspect ubuntu | grep CMD
+
+
+
+-------------------------------
+
 ### docker ps
 ## To see what's running inside the conatiner
 ### docker get logs
