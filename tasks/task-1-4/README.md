@@ -16,3 +16,16 @@
 
 
 <img width="1364" alt="Screen Shot 2022-10-10 at 17 27 51" src="https://user-images.githubusercontent.com/43513994/194894256-113ebe88-8d38-4458-9dd6-cbd6895196db.png">
+
+------------------------------------------------------------------------
+###Commands :
+```
+# Build the docker image :
+docker build . -t task-1-4
+
+# Run the container :
+docker run -d task-1-4
+
+# To get inside the container :
+docker exec -it "image-ID" bash
+```
