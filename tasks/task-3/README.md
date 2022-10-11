@@ -16,3 +16,9 @@ And need to connect with them.
 The application are comprised of micro-services/components that communicates with each other
 to make the full application
 ```
+
+### Results
+
+<img width="1270" alt="Screen Shot 2022-10-12 at 1 42 06" src="https://user-images.githubusercontent.com/43513994/195212158-57ce1baf-dd3d-43fc-8c75-8083ec063c05.png">
+
+<img width="1364" alt="Screen Shot 2022-10-12 at 1 41 38" src="https://user-images.githubusercontent.com/43513994/195212164-abaf9873-ad45-4911-a3af-c04e454a4506.png">
