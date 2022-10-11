@@ -9,4 +9,7 @@ Please created a demonstration of the benefits.
 ```
 Can selectively copy artifacts from one stage to another,
 leaving behind everything you don't want in the final image
+
+You can use it, by writing inisde the dockerfile two images,
+the first one doing all installation, in the second image added the exec code that run the app.
 ```
