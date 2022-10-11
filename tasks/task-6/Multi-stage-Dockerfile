@@ -9,6 +9,7 @@ RUN chmod +x /tmp/requirements.sh && /tmp/requirements.sh && wget https://downlo
 COPY ./smb.conf /usr/local/samba/etc/smb.conf
 
 
+
 FROM ubuntu
 RUN apt-get update && apt-get upgrade -y && \
 DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends tzdata && \ 
